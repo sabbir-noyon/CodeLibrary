@@ -1,4 +1,6 @@
 # VSCode Settings
 .vscode/
 
-# others
+# Executables
+*.exe
+*.out
